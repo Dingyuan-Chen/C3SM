@@ -1,0 +1,7 @@
+# Python 3.8.18
+einops==0.8.0
+numpy==1.24.4
+imageio==2.26.0
+opencv_python==4.8.1.78
+scikit_image==0.19.3
+tqdm==4.66.1
