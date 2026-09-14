@@ -6,6 +6,10 @@ Official code of the paper "Cross-sensor continual maritime object recognition v
 
 For detailed environment setup and dependencies, please refer to the installation guides in [avalanche](https://github.com/ContinualAI/avalanche) and [ReFusion](https://github.com/HaowenBai/ReFusion).
 
+## Dataset 
+
+Due to copyright restrictions, the UAVSensorCL dataset cannot be directly redistributed. Please obtain the raw data directly from the respective authors or official repositories of the original public datasets.
+
 ## Getting Started
 1. Train a spectral shift parsing prior module
 ```
