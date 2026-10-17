@@ -30,3 +30,17 @@ bash scripts/03_train_det_ckpt.sh
 ```
 bash scripts/04_test_det.sh
 ```
+
+## Citation
+
+```BibTeX
+@article{chen2027cross,
+  title={Cross-sensor continual maritime object recognition via spectral shift modulation in heterogeneous infrared--visible UAV imagery},
+  author={Chen, Dingyuan and Liu, Yu and Song, Zhaohui},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={243},
+  pages={160--181},
+  year={2027},
+  publisher={Elsevier}
+}
+```
